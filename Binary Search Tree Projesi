@@ -1,0 +1,18 @@
+[7,5,1,8,3,6,0,9,4,2]	Binary Search Tree Aşamaları
+
+Root:7 alındığında 7'nin sağında 7'den büyük elemanlar, solunda ise 7'den küçük elemanlar yer alacak şekilde yerleştirilir. 5<7 olduğundan 7'nin altında 
+solda, 8>7 olduğundan 7'nin altında sağda dal oluşturur. 1<5 olduğundan 5'in altında solda, 3>1 olduğundan 1'in altında sağda dal oluşturur. 6>5 olduğundan 
+5'in altında sağda, 0<1 olduğundan 1'in altında solda,9>8 olduğundan 8'in altında sağda, 4>3 olduğundan 3'ün altında sağda, 2<3 olduğundan 3'ün altında 
+solda dal oluşturur. Sonuçta oluşan Binary Tree Ağacı aşağıdaki gibidir.      
+
+                            
+                               7
+                              / \ 
+	                           5   8 
+                            / \   \ 
+	                         1   6   9
+                          / \ 
+	                       0   3
+                            / \ 
+                           2   4
+	
