@@ -8,11 +8,11 @@ solda dal oluşturur. Sonuçta oluşan Binary Tree Ağacı aşağıdaki gibidir.
                             
                                7
                               / \ 
-	                           5   8 
+	                     5   8 
                             / \   \ 
-	                         1   6   9
+	                   1   6   9
                           / \ 
-	                       0   3
+	                 0   3
                             / \ 
                            2   4
 	
